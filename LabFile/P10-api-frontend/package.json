@@ -1,7 +1,0 @@
-{
-  "name": "p10-api-frontend",
-  "version": "1.0.0",
-  "main": "app.js",
-  "scripts": { "start": "node app.js" },
-  "dependencies": { "express": "^4.21.0" }
-}
